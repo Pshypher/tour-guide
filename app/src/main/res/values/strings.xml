@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="category_places">Places</string>
+
+    <string name="category_restaurants">Food</string>
+
+    <string name="category_monuments">Monument</string>
+
+    <string name="category_nature">Nature</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="description_nikes_art_center">Nike’s centers aren’t classrooms.
+        They are workshops where Nigerian artists and craftsmen ply their trades. There is no
+        syllabus, no course of study. You decide what you would like to study or try, and then
+        apprentice yourself to someone, or find a teacher. The textile artists, painters, sculptors,
+        dancers and drummers are proud of their achievements and happy to share their knowledge with
+        you.
+    </string>
+
+    <string name="description_national_museum">The Nigerian National Museum was founded by the English
+        archaeologist Kenneth Murray. The museum has an eminent accumulation of Nigerian workmanship,
+        including bits of statuary and carvings and archaeological and ethnographic displays. You
+        can find galleries dedicated to the Nok Terracottas from Benin City, the bullet-riddled car
+        from the assassination of Murtala Muhammed, carved ivory, ancient royal crowns and intricate
+        handcrafted artefacts from all over Nigeria.
+    </string>
+
+    <string name="description_new_afrika_shrine">The New Afrika Shrine is an open air entertainment
+        centre located in Ikeja, Lagos State. It serves as the host location of the annual
+        Felabration music festival. Currently managed by Femi Kuti (eldest son of Fela Kuti)
+        and Yeni Anikulapo-Kuti, it is the replacement of the old Afrika Shrine created in 1970 by
+        Fela Kuti until it was burnt down in 1977. The New Afrika Shrine showcases photo galleries
+        of Fela and music performances by Femi Kuti and Seun Kuti thus making it a tourist attraction.
+        On July 3rd, 2018, French President Emmanuel Macron visited the Shrine and pre-launched the
+        Season of African Cultures 2020 in France. Macron said he had visited the Shrine as a
+        student in 2002.
+    </string>
+
+    <string name="description_scoan">The Synagogue, Church of All Nations (SCOAN). According to the
+        organisation, more than 15,000 members attend its weekly Sunday service; visitors from
+        outside Nigeria are accommodated in the accommodation blocks constructed at the church.
+        The Guardian reported that The SCOAN attracts more weekly attendees than the combined number
+        of visitors to Buckingham Palace and the Tower of London.
+        with thousands of foreigners flocking to attend the church\'s weekly services. Figures
+        released by the Nigerian Immigration Service indicated that six out of every ten foreign
+        travellers coming into Nigeria are bound for the SCOAN.
+    </string>
+
+    <string name="description_terra_kulture">Terra Kulture Arts and Studios Limited is an educational
+        and recreational organization set up in 2003 to promote the richness and diversity of
+        Nigerian languages, arts and culture. Mrs. Bolanle Austen-Peters has an abiding passion and
+        respect for all cultures and observed that there were few institutions effectively supporting
+        Nigerian culture. There were, and remain, few places in Nigeria with the appropriate ambience
+        for Nigerians and foreigners to learn about Nigeria’s cultural and linguistic heritage.
+    </string>
+
+    <string name="description_icm">Ikeja City Mall comprises 23,000 square meter of A-grade retail
+        space in Ikeja, a suburb of the city of Lagos and the capital of the state, ICM is an
+        ultra-modern Shopping Centre in what is described as a dual economic state;
+        residential but predominantly commercial. ICM is the choice retail destination in Lagos with
+        a wide selection of national and international tenants. The total 23,000 square meters area
+        of ICM guarantees ample parking space for shoppers.
+    </string>
+
+    <string name="description_quilox">Club Quilox is a luxurious style nightclub in Victoria Island,
+        Lagos owned by Shina Peller. Housed in a massive building, Club Quilox also operates a
+        restaurant and bar. It opened in 2013, as one of the biggest and most expensive nightclubs
+        in Nigeria.
+    </string>
+
+    <string name="description_hard_rock_cafe">Hard Rock Cafe is one of the classic restaurants in
+        Lagos, with a different mouthwatering menu that would give your taste bud another feeling.
+        Their menu prices are not too expensive but still affordable. You can get them in Abuja and
+        also in Lagos. To set up a date with them they are on Instagram where you can keep a tab on
+        them.
+    </string>
+
+    <string name="description_shiro"><![CDATA[Shiro possesses a surreal glow ensuring that you will
+    never be able to ignore your surroundings. The mood starts cool and chic but transforms, as the
+    night unfolds, yet, you can find intimate corners to dine or simply chill at any time. An
+    organic, blend of cuisines, culture & service from all over Asia mixed with a unique blend of
+    western music & signature cocktails, Shiro is the ultimate dining or late night experience.]]>
+    </string>
+
+    <string name="description_talindo">Talindo Steak House has been around for years and is still
+        going strong. They have fantastic steak, Italian dishes and how can we forget the sizzling
+        brownies, and their newest gourmet creation, the yummy apple pie. The intimate decor and
+        friendly service make Talindo a strong favorite.
+    </string>
+
+    <string name="description_lafric">L\'afric is a great place to eat delicious African cuisines
+        all in a  traditional yet sopisticated way.The restaurants boasts of a cool ambiance,nice
+        decor as well as well mannered customer service. If you crave a healthy African dish in a
+        sophisticated way yet with large healthy servings and staff that wouldn\'t hesitate to pack
+        your food up as take away if you happen not to finish it,then L\'afric restaurant is the
+        right restaurant.
+    </string>
+
+    <string name="description_sailors_lounge">Sailor\'s Lounge brandishes itself as the best
+        Bar/restaurant in Lekki Phase 1, Lagos Nigeria,  a cool spot to hangout with friends
+        and family, Sailors Lounge is the place to be. Meals range from seafood to poultry and beef.
+        Mainly continental dishes. Alongside catfish peppersoup and grilled catfish.
+    </string>
+
+    <string name="description_oceans_basket">Ocean Basket is South Africa\'s favourite chain of
+        seafood restaurants. There\'s one near you. At Ocean Basket you\'ll find friendly people,
+        a home-from-home feeling and great value for your hard-earned bucks. Some Ocean Baskets
+        have a fresh-fish deli too, and you can order to eat in or takeaway, whatever grabs you.
+    </string>
+
+    <string name="description_craft_gourmet">Something about Craft Gourmet Lagos by Lou Baker will
+        remind you of the Ladurée café in Harrods. It feels just as charming. The white open space,
+        simple decor, abundance of light, and the menu lets you see straight through the philosophy
+        of the place which is perhaps to keep things simple, tasteful, and delicious. The staff are
+        friendly and attentive. The whole place feels like a breath of fresh air in a part of
+        Victoria Island that is otherwise choked up. It’s also entirely possible that when you go
+        there, you will find yourself surrounded by french speaking people and then you will really
+        feel the magic. After all, who doesn’t love a little bit of Francais?
+    </string>
+
+    <string name="description_arabesque">Arguably the best Middle Eastern restaurant in Lagos, this
+        is a great environment to come over with family and friends and enjoy the picturesque
+        environment, great food and lovely company. This is a Lebanese restaurant serving incredibly
+        delicious Mid Eastern dishes in an environment that is entirely out-of-Lagos. It\'s like a
+        journey around Middle East in term of ambiance, food, and believe me it\'s amazing.
+    </string>
+
+    <string name="description_casper_gambini"><![CDATA[Crafted by international chefs and tailored
+    according to every country’s special taste, our menus will bedazzle you wherever you
+    decide to pay us a visit. Get the chance to experience the genuine taste of our creations in
+    different countries of the world.  Whether you decided to pass by for breakfast and a cup of our
+    award winning coffee, for lunch, dinner, or even for an organic tea accompanied with signature
+    desserts with friends, family, or loved ones, you will always find a reason to visit Casper &
+    Gambini’s!]]>
+    </string>
+
+    <string name="description_freedom_park">Freedom Park is a memorial and leisure park area in the
+        middle of downtown Lagos in Lagos Island, Nigeria which was formerly Her Majesty\'s Broad
+        Street Prison. It was designed by the Architect Theo Lawson.  The Park was constructed to
+        preserve the history and cultural heritage of Nigerians. Monuments in the park reveal the
+        Lagos colonial heritage and history of Her Majesty\'s Broad Street prisons. It was built to
+        commemorate the 50th anniversary independence celebration in October, 2010. The Park serves
+        as a National Memorial, a Historical landmark, a Cultural site, Arts and Recreation centre.
+    </string>
+
+    <string name="description_mko_abiola">The MKO Abiola Statue was designed and erected by
+        Olurotimi Ajayi in memory of Chief Moshood Abiola, a politician who was widely regarded as
+        the winner of the inconclusive 1993 Nigerian elections. Standing at about 46 feet
+        tall, the statue was unveiled on 12 June 2018 during the administration of Governor
+        Akinwunmi Ambode.
+    </string>
+
+    <string name="description_queen_amina">Queen Amina Statue is an equestrian statue in honour of
+        Queen Amina, an Hausa Warrior Queen of Zazzau. The sculpture was originally designed by Ben
+        Ekanem in 1975 during the Second World Black and African Festival of Arts and Culture and
+        was placed at the entrance of the National Arts Theatre in Lagos State. It was destroyed in
+        2005 due to weathering but was however re-designed in 2014 by an unsigned artist.
+    </string>
+
+    <string name="description_shitta_bey">Shitta-Bey Mosque is a mosque, religious learning centre
+        and one of the oldest mosques in Nigeria. The mosque is located at Martins Ereko Street,
+        Lagos Island, Lagos, Nigeria. It was established in 1892 and designated as National monument
+        by Nigerian Commission for Museums and Monuments in 2013. The mosque, considered one of the
+        most important historical legacies of Nigeria, was named after its founder Sierra Leonean-born
+        Nigerian, Mohammed Shitta Bey, who was an aristocrat, philanthropist and businessman.
+    </string>
+
+    <string name="description_tafawa_balewa_square">The Tafawa Balewa Square, (TBS) is a 14.5-hectare
+        (35.8-acre) ceremonial ground (originally called \"Race Course\") in Lagos Island, Lagos.
+        Lagos Race Course now Tafawa Balewa Square, was a sports field that hosted horse racing, but
+        included a section for football and ground to play cricket. The land was provided to colonial
+        authorities by Oba Dosunmu in 1859, who thereafter, built up the surrounding areas. The course
+        was later demolished by the government of Yakubu Gowon to make way for Tafawa Balewa Square.
+        In its hey days, the course hosted the Empire Day parades. The horse racing track was about
+        seven to eight furlongs or a mile. In 1960, the course was redeveloped to celebrate Nigeria\'s
+        independence and the lowering of the union jack.
+    </string>
+
+    <string name="description_tinubu_square">Tinubu Square (formerly Independence Square), is an
+        open space landmark located in Broad Street, Lagos Island, Lagos State, Nigeria. It used to
+        be called Ita Tinubu in memory of Madam Efunroye Tinubu, a slave trader and business magnate,
+        before it was named Independence Square by leaders of the First Republic and subsequently
+        Tinubu Square.
+    </string>
+
+    <string name="details">more</string>
+
+    <string name="description_lekki_conservation">Lekki Conservation Centre (LCC) is a 78-hectare
+        (190-acre) Natural Resource Conservation in Lekki, Lagos State. The centre was established
+        in 1990 to serve as biodiversity conservation icon and environment education centre. The
+        facility was built by the Chevron Corporation for the Nigerian Conservation Foundation (NCF),
+        as a reserved sanctuary for the rich flora and fauna of the Lekki Peninsula. The company has
+        since provided annual funding for the management of the centre.
+    </string>
+
+    <string name="description_tarkwa_bay">Tarkwa Bay is an artificial sheltered beach located near
+        the Lagos harbour in Nigeria. Due to its island status, it is only accessible by boat or
+        water taxis. The beach, popular with swimmers and water-sports enthusiasts, also has a
+        welcoming resident community. There are several parts of Lagos Island where you can board a
+        ferry or high-speed boat to the bay. The most popular places to get a boat to Tarkwa Bay are
+        Marina, Mekwe Jetty, and Tarzan Marine (Victoria Island).
+    </string>
+
+    <string name="description_atican">Atican Beach Resort is a serene and scenic private beach resort
+        located in Lekki-Ajah, Lagos. The resort perfect for various leisure and relaxation
+        activities. Explore the selection of Caribbean styled beach huts that lie along the ocean
+        coastline. The resort is an ideal destination for family trips and romantic getaways with
+        your partner. It is also perfect for corporate retreats and bonding with friends.
+    </string>
+
+    <string name="lufasi">Lufasi Nature Park covers a large area of about 20 hectares of land at the
+        Majek area (Km 41) along the Lekki-Epe Express Way. The park is home to species like the
+        Ekki “Iron Wood” tree (Lophira Alata), the endangered Hooded Vulture (Necrosyrtes Monachus)
+        and the African Pied Hornbill (Tockus fasciatus). The vegetation consists of pocket habitats
+        of swamp forest and oil-palm plantation with large garden spaces and pond-side landscapes for
+        recreation and celebrations. Lufasi Nature Park aims to help conserve native biodiversity,
+        educate about Climate Change and the natural environment, and collaborate with the wider
+        community of stakeholders.
+    </string>
+
+    <string name="description_greenfingers">An initiative in Lagos helping kids learn about the
+        environment through a small zoo where they can see the country\'s flora and fauna. Another
+        project teaches how to use plastic as resource to create something new.
+    </string>
+
+    <string name="lekki_leisure_lake"><![CDATA[Lekki Leisure Lake is located along the Lekki
+    Peninsular in Lagos overlooking the Atlantic. Lekki Leisure Lake is the best destination for
+    safe, authentic outdoor fun in Lagos. Tucked away along the Lekki peninsula shoreline, the
+    resort’s cool tranquil lake is host to thrilling aquatic attractions including jet skiing and
+    other exciting watercraft activities.  The Lekki Leisure Lake is a safe & seaside activity
+    centre where kids & adults can indulge themselves in thrilling & adventurous activities like
+    quad bikes, jet skis, wave boat, pontoon boat, pedal boats. If you are supposed to have any
+    private function then Lekki Leisure Lake is going to be worth spending money.]]>
+    </string>
+    <string name="location">Location</string>
+    <string name="contact">Contact</string>
+
+</resources>

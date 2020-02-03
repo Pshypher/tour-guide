@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DetailsActivity"
+    android:background="@color/limeBackground">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img_tour_attraction"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="@id/favourite"
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="16dp" />
+
+        <ImageView
+            android:id="@+id/favourite"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:padding="5dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp"
+            android:src="@drawable/ic_star"
+            android:background="@drawable/info_background"
+            app:layout_constraintVertical_bias="0.35" />
+
+        <TextView
+            android:id="@+id/place"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/img_tour_attraction"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            tools:text="Shiro"
+            android:textSize="24sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/label_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/location"
+            app:layout_constraintBaseline_toBaselineOf="@id/location"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18sp"
+            android:textColor="@android:color/black" />
+
+        <EditText
+            android:id="@+id/location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/place"
+            app:layout_constraintStart_toEndOf="@id/label_location"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp"
+            tools:text="Oniru Estate, Victoria Island"
+            android:textColor="@color/textColor"
+            android:enabled="false" />
+
+        <TextView
+            android:id="@+id/label_contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/contact"
+            app:layout_constraintBaseline_toBaselineOf="@id/contact"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18sp"
+            android:textColor="@android:color/black" />
+
+        <EditText
+            android:id="@+id/contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/location"
+            app:layout_constraintStart_toEndOf="@id/label_location"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp"
+            tools:text="+2348186298888"
+            android:textColor="@color/textColor"
+            android:enabled="false" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/contact"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_margin="16dp"
+            tools:text="@string/description_shiro"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:lineSpacingMultiplier="1.25" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
