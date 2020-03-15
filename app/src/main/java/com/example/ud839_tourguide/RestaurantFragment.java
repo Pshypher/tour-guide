@@ -43,6 +43,7 @@ public class RestaurantFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.places_list, container, false);
 
+        mPlaces.clear();
         mPlaces.add(new Place(R.drawable.hard_rock_cafe, R.drawable.hard_rock_cafe_large,
                 "Hard Rock Cafe", "Oniru Estate, VI",
                 R.string.description_hard_rock_cafe, "+2349081988888"));

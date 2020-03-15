@@ -46,6 +46,7 @@ public class PlacesFragment extends Fragment {
 
         View rootView = inflater.inflate(R.layout.places_list, container, false);
 
+        mPlaces.clear();
         mPlaces.add(new Place(R.drawable.nike_art_center, R.drawable.nike_art_center_large,
                 "Nike Art Center", "Phase 1, Lekki",
                 R.string.description_nikes_art_center, "+2348034096656"));

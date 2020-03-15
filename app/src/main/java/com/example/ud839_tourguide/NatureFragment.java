@@ -45,7 +45,7 @@ public class NatureFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.places_list, container, false);
-
+        mPlaces.clear();
         mPlaces.add(new Place(R.drawable.lekki_conservation, R.drawable.lekki_conservation_large,
                 "Lekki Conservation Centre", "Lekki Penninsula, Lekki",
                 R.string.description_lekki_conservation));

@@ -43,6 +43,7 @@ public class MonumentFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.places_list, container, false);
 
+        mPlaces.clear();
         mPlaces.add(new Place(R.drawable.freedom_park, R.drawable.freedom_park_large, "Freedom Park",
                 "Broad St, Lagos Island", R.string.description_freedom_park,
                 "+2348095006567"));
